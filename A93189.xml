@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short and true narrative of the departure from England, sicknesse, and death, of that late worthy knight, Sir Philip Stapleton, attested under the hands of foure of those gentlemen that went with him. With a briefe character of his person, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93189</idno>
+            <idno type="STC">Wing S3554</idno>
+            <idno type="STC">Thomason E409_3</idno>
+            <idno type="STC">ESTC R10571</idno>
+            <idno type="EEBO-CITATION">99858862</idno>
+            <idno type="PROQUEST">99858862</idno>
+            <idno type="VID">110921</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110921)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E409[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short and true narrative of the departure from England, sicknesse, and death, of that late worthy knight, Sir Philip Stapleton, attested under the hands of foure of those gentlemen that went with him. With a briefe character of his person, &amp;c.</title>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "7ber. [i.e. September] 28 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stapleton, Philip, --  Sir, 1603-1647.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:110921:1" rendition="simple:additions"/>
+            <head>A SHORT AND True Narrative of the departure from <hi>England,</hi> Sickneſſe, and Death, of that late worthy Knight, Sir <hi>PHILIP STAPLETON,</hi> Atteſted under the hands of foure of thoſe Gen<g ref="char:EOLhyphen"/>tlemen that went with him. With a briefe Character of his Perſon, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving met abroad with ſo much noiſe and to many malicious &amp; falſe reports touching the Converſation quality, life and death of that truly honourable Gentleman, Sir <hi>Philip Sta<g ref="char:EOLhyphen"/>pleton,</hi> the glory and honour of his Country and Family: I thought ſir bring neere him in moſt of his undertakings Military and Civil, wherein both in publike and pri<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e his un<g ref="char:EOLhyphen"/>daunted courage, and accompliſhed endow<g ref="char:EOLhyphen"/>ments were ſufficiently tryed, to publiſh this ſhort narrative to the world, to ſilence thoſe Calumnies and Aſperſions daily ſpread abroad againſt him, which though its much ſhort of his true worth yet 'tis a witneſſing to the truth, and can be denied by none, that have ei<g ref="char:EOLhyphen"/>ther known of, or been converſant with his perſon, parts, honour, Religion, or Family: and firſt</p>
+            <p>For his Family, he is deſcended from royall ſtemms of honour and majeſty.</p>
+            <p>For his Religion, he was a true and zealous Proteſtant, though
+<pb n="2" facs="tcp:110921:2"/>not any way new fangled, yet abundantly carefull, and curious enough to diſcover the ſaving truths in fundamentalls of Faith and knowledge, and living thereafter, ever uſing all duties ſuitable to a ſincerely hearted Chriſtian in his Family, and otherwiſe to<g ref="char:EOLhyphen"/>wards God and man, both in publike and private to his dying day, which he proſecuted with a modeſt zeale, and faithfull conſtancy, Nor was he eaſily engaged into any thing of Change, no not into that way he ſo much ſuſtred for (the Covenant and Church-govern<g ref="char:EOLhyphen"/>ment by Presbytery) though afterwards he looked upon it both in divine and prudent conſiderations, as the way of God ſuiting moſt, and beſt with the union of the Nations, and in that the welfare of both, And the next way under God (moderately advanced) to make the three Kingdomes happy; and upon thoſe very grounds, with moſt Chriſtian and indefatigable endeavours was a Cordiall promoter of it. He was a religious lover of both his Wives, and all his Children without partiality; breeding them up in the feare of God, Giving life unto his admonitions and counſells, by his holy, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and affectionate carriage and converſation towards them walking with, and before them as a Husband and a Father, looking at, and depending upon his and their Father in Heaven; And yet ſo as taking care of, and providing for them competencies our of that little God had made him ſteward of. All which he both faithfully and providently expreſſed in his life, and affectionately and prudent<g ref="char:EOLhyphen"/>ly diſpoſed of at his death.</p>
+            <p>For his Honour, he had more then can well be allowed to any, but the beſt of Engliſhmen, and of them, the moſt indeed, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e was as much an Engliſhman, and as truly noble in his heart, as <hi>England</hi> hath ever bred, he abounded in curteſie to all, even his enemies, that which was their ſhame to contrive or act againſt him, hee made it his honour to paſſe by. A moſt faithfull friend, their extremities were his opportunities in which he never thought he had done e<g ref="char:EOLhyphen"/>nough; his compaſſions overflowed to the diſtreſſed, endeavouring upon all occaſions with all his intereſt, to give freedome &amp; releif to the oppreſſed, indeed he made this his buſineſſe. For injuries recei<g ref="char:EOLhyphen"/>ved (though he was quick enough in the firſt reſentment of them) he heaped Coales upon their heads in his returnes of favour, he was indeed a friend to all that needed him, and an enemy to none though
+<pb n="3" facs="tcp:110921:2"/>ſometimes he was unhappy in not being rightly underſtood by them, which bred ſome miſtakes, and thoſe ill reports of him, but he well knew that is part of the Good mans Portion in this world, hoe therefore walked above them. Hee was a moſt faithfull lover of his Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>try, the ſettlement of the Peace, of which as he deſired it above his temporall felicities, ſo he was willing to ſpend himſelfe, and to be ſpent for it. He was ſo farre from making theſe troubles a ſtirrup to his advantage, that (though others, too many, and moſt of them pretend to piety and ſelfe-denyall, have reaped very many thouſands more then otherwiſe they ever were, or would have been maſters of) here refuſed Great things offered and voted to him, 'tis well knowne to divers of his neereſt friends, hee hated the thoughts of Glory or Ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e this way, often ſolemnly profeſſing the peace of the Kingdome once ſetled he would retyre and ſpend his remaining dayes in bleſſing God for his mercies to this poore King<g ref="char:EOLhyphen"/>dome, and endeavour after a holy life, ſuitable to ſuch an engage<g ref="char:EOLhyphen"/>ment; But God would not have it ſo, but would rather honour him with a kind of martyrdome for this Kingdome, who not ſenſi<g ref="char:EOLhyphen"/>ble of his worth, knew not how to put a true value upon ſuch a Je<g ref="char:EOLhyphen"/>well, nor indeed was worthy of him: And therefore God thought fit to call him to himſelfe there to glorifie him.</p>
+            <p>For his parts they were very eminent, he was quick of apprehen<g ref="char:EOLhyphen"/>ſion, ſound of judgement of cleare and good clocution, and in things wherein the juſt Rights of the King, the Priviledge of the Parlia<g ref="char:EOLhyphen"/>ment, and the ſafety of the Kingdom (againſt what power ſoever) was concerned, or the re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ig'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of any diſtreſſed required it, he ever ſpake freely, and with great abilities by which he not onely gained much intereſt in the houſe and abroad but alſo contracted upon himſelfe much envy from others as the great obſtructer of their deſignes, he very well fore-knowing and conſtantly in publike and private aſ<g ref="char:EOLhyphen"/>ſerting that the Change of this Government (ſo much aymed at by ſome though otherwiſe pretended is contrary to the well being at leaſt of this Nation and to the union with our brethren of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> and will be when ever attempted deſtructive to the ſafety of both; And he would often ſay, that though hee and others<g ref="char:punc">▪</g> poſſibly through the power ſome had might be perſecuted to baniſhment or death, and that it might be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on againſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> under <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:110921:3"/>of juſtice and righteouſneſſe in thoſe that did it, ſuggeſting dange<g ref="char:EOLhyphen"/>rous deſignes to be underhand contrived by himſelfe and others, contrary to the intereſt of this Kingdom, and the truſt put upon him and them in Parliament, which he abhorred and of which he ever ſo<g ref="char:EOLhyphen"/>lemnly took God to witnes he was innocent of, &amp; thoſe other of thoſe things of which they were falſly accuſed. And though he did of late foreſee it would be done, though by never ſo unjuſt and unwarrant<g ref="char:EOLhyphen"/>able wales, the principle thoſe people ground their actions upon, be<g ref="char:EOLhyphen"/>ing (guided by light and conſcience, as they falſly pretend) to de<g ref="char:EOLhyphen"/>ſtroy all men of parts or intereſt that oppoſe their way, it may be blindly ſuppoſing they do God good ſervice in it. Yet when God had ſuffered them to goe ſo farre he was confident it would returne up<g ref="char:EOLhyphen"/>on them in the latter end, to their owne ſhame and ruine. And for him and the reſt, though they periſhed under it yet their over<g ref="char:EOLhyphen"/>throw would become their crowne, and therefore he ſubmitted it to God acquieſſing in his will.</p>
+            <p>For his perſon, he was of a thin body, and weak conſtitution but full of ſpirit, which was too ſoone ſpent (if God had ſeene it good) with the manifold endeavours and exceſſive paines he day and night undervvent for the ſervice of this poore Kingdome: And though he found his body not able to endure much hardſhip, yet when the Kingdome had need of it, and God called him to it, he expoſed him<g ref="char:EOLhyphen"/>ſelfe to the greateſt hazards in the warre, daring as much, and going as farre in that ſervice, as any mortall ever did, witneſſe thoſe emi<g ref="char:EOLhyphen"/>nent engagements of his in the two great Battels of <hi>Keinton</hi> and <hi>Newberry,</hi> in which he was in a very high degree inſtrumentall to the gaining of the day in both. And being afterwards with that moſt famous, and ever to be honoured the Lord Generall, the Earle of <hi>Eſſex</hi> and others, by the ſelfe-denying vote (which how, and to what ends made uſe of by ſome, the world well knowes, and God will judge) called off, he, and they all layd down his Armes without any diſpute, which will one day riſe up in judgement againſt the men (of this world) of our dayes pretend what they will, who as he frequently ſaid perſecuted him for his judgement and conſcience declared where it was his duty to ſpeak both (though they pretend it a Liberty of Conſcience to ſpeake and act what and where they ought not) he valued himſelfe ſo little in compariſon to his ſervice
+<pb n="5" facs="tcp:110921:3"/>to this Kingdome, that he would willingly have ſuffered to Aſſaſi<g ref="char:EOLhyphen"/>nation, rather then have declined his <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ng in Parliament: but finding upon ſerious debate, that at preſent to give way to the furi<g ref="char:EOLhyphen"/>ous multitude, madded with a pretence of zeale to Juſtice and Righteouſneſſe it probably might be of better ſervice to the King<g ref="char:EOLhyphen"/>dome to withdraw, did it. And though afterwards at the Call of the Houſe, ſate againe (which he and the reſt might have done at their pleaſure) his reaſons at are well known to ſome, were ſo publike, that for this alone he deſerves the higheſt honour: thus to hazard himſelfe again upon this ground that if it were poſſible by improve<g ref="char:EOLhyphen"/>ment of Councells and means, the utter violation of the Parlia<g ref="char:EOLhyphen"/>ment<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the plunder, and deſtruction of the City, who had been ſo much a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſtant to the preſervation of this Parliament and King<g ref="char:EOLhyphen"/>dome ſo much threatned might be prevented. But when another way was taken which poſſibly hee thought not honourable then againe upon the aforeſaid Grounds, by the leave and paſſe of the Houſe formerly ordered <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otally withdrew and travailed (as it un<g ref="char:EOLhyphen"/>happily proved to <hi>England</hi>) having at that time a Flux upon him with his journey and voyage by Land and Sea increaſed <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>OBeying that neceſſity that enforced us out of <hi>England<g ref="char:punc">▪</g>
+               </hi> Foure of us <hi>vi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Sir <hi>William Waller,</hi> Sir <hi>William Lewis<g ref="char:punc">▪</g>
+               </hi> Sir <hi>Philip Stapleton</hi> (though then Feaveriſh with a Flux that had followed him ſome daies before) with Col. <hi>Long</hi> began our Journey on Saturday the 14th of his inſtant towards whole Haven in <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſex,</hi> where wee were by eight the next morning to meet Sir <hi>John Clo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>worthy,</hi> who was to come thither by water; In which journey out firſt inconve<g ref="char:EOLhyphen"/>nience was. A report we met at <hi>Aveley,</hi> 16. miles from <hi>London,</hi> that a party of Sir <hi>Thomas Fairfax</hi> his Horſe, with ſome of thoſe Dra<g ref="char:EOLhyphen"/>goones, that lately had taken <hi>Til<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ury</hi> Fort: were quartered in our way, to the Haven above-mentioned, which made us leave the road, not willing to truſt to the ſecurity our Paſſes ſhould have given us, againſt the inſolencies that the Troupers might have been over-apt unto. And that from our experience of their way, in avowing their Actions without orders from their Officers, which caſt us on ſuch ill
+<pb n="6" facs="tcp:110921:4"/>Lodgings that night, that few of our Company put off their clothes, whereby Sir <hi>Philip Stapletons</hi> diſtempers were much increaſed, but yet his willingneſſe to goe on his journey was ſuch, that we all went on board a Pinke that was to carry us on Sunday about one in the afternoone, where the firſt nerves that ſaluted us, was that ſome Watermen on ſhoare, had threatned the Maſter of the Veſſell, that he would runne himſelfe into a great danger by carrying of us over, which made him leave his Veſſell, and our Voyage to the care of his ſervant, though halfe his wages were paid before our comming out of <hi>London,</hi> and a Gentleman that acc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpanied Sir <hi>Philip Stapleton</hi> to the water ſide, hearing the Watermen there<g ref="char:EOLhyphen"/>in ſome unneceſſary diſcourſe concerning our Journy knocks one of them over the pace, which wrought ſo with them, that they became ſo diligent in preſſing the Maſter of the Backs danger upon him, that the fellow (having had neither the wit, nor the honeſty to aske us for the ſight of our Paſſes, became ſo frighted therewith that hee haſtened along the Coaſt, to ſtop us; And wee being under ſayle, came by Gods bleſſing, though the wind was high and we once in great danger of being caſt away, (ſome three Veſſells having by that ſtorme periſhed neere <hi>Callice,</hi>) as farre as <hi>Margetts,</hi> and Anchor'd againſt that place for that night, which was a very blu<g ref="char:EOLhyphen"/>ſtring one, without any accommodation for any of us wherewith we were the more afflicted from Sir <hi>Philip Stapletons</hi> ſufferings, by reaſon of his want of health; And he ſing Sayle the next morn<g ref="char:EOLhyphen"/>ing (though at our comming out we reſolved for <hi>Pluſhing</hi>) yet we determined for <hi>Callice</hi> the cu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> being ſhorter, and the wind blow<g ref="char:EOLhyphen"/>ing fairer thither, having had enough of the Sea in our ſmall Barke, to give us cauſe to wiſh our ſelves aſhore; And in our paſſage we came by ſome of the Parliament Ships, under the Command of the Vice-Admirall, riding at the Downes; and ſayling within call of the <hi>Nicodemus</hi> Frigott wee were queſtioned whence wee came and whither we were bound; to which having anſwered from <hi>London,</hi> and for <hi>Callice,</hi> we paſſed on, having in view of the Fleet taken up a Pilot of <hi>Sandwich</hi> to aſſiſt the manning of our Barke, finding our ſelves much inconvenienced for want of the Maſters help therein: and ſo holding on with a faire wind, had recovered neere <hi>Callice;</hi> the afore-mentioned fright had ſo wrought on the Maſter of the
+<pb n="7" facs="tcp:110921:4"/>Barke, that recovering <hi>Margetts</hi> he diſperſt a report there, that we had ſtolne away without Paſſes, conveyed with us 16000 pounds in Treaſure, and taken away his Barke without his conſent: Where<g ref="char:EOLhyphen"/>upon the Drums were beaten up there, and a Boat manned out af<g ref="char:EOLhyphen"/>ter us, with ſome forty in Armes, who not able to reach us, came with that falſe alarum to the Captaine of the Nicodemus Frigott above-mentioned; and he thereupon ſlipt his Anchors, and being a ſwift ſayler overtooke us about noone within ſome two leagues of <hi>Callice,</hi> where ſhooting a warning-Peece at us, ſome of his men came aboard us, and ſome of us went aboard to him, and he requi<g ref="char:EOLhyphen"/>ring us to returne to the Vice-Admirall, wee tackt about, and the wind being contrary, it was neere ten at night e're we could reco<g ref="char:EOLhyphen"/>ver into his Ship, who ſeeing our Paſſes, was troubled that we were ſtopt in our journey, but upon the report ſo generally divulged of the great Treaſure we had with us, would not diſmiſſe us the next morning without a Councell of War, who adviſed the ſearch of our Portmantles, &amp; our ſervants to their very pockets, for his juſtificati<g ref="char:EOLhyphen"/>on and ours, and that in the preſence of ſome of them, that had publi<g ref="char:EOLhyphen"/>ſhed thoſe falſe rumours, after which finding with us but ſome few changes of Linnen and cloathes; on Tueſday morning about ten of the clock, having bin civilly treated we farwel'd him, and went on our journey for <hi>Callice,</hi> (Sir <hi>Philip Stapleton</hi> having gotten ſome reſt, in one of his Cabbins, and ſome eaſe from thoſe things which had been adminiſtred him by his Chirurgion) where we arrived about five in the evening, and hoped that a few dayes reſt there, would have recovered Sir <hi>Philip Stapleton</hi> ſo, as that he would have been enabled to have gone on our intended journey thorow <hi>Flan<g ref="char:EOLhyphen"/>ders</hi> for <hi>Holland;</hi> but his Flux continuing with him on Tueſday night together with his Feaver, and his ſtomack failing him, though neither he nor we had any mind to the French Phyſicians, yet on Wedneſday he enclined to conſult with the onely one that was there, who comming to him, and diſcourſing his then condition, without mentioning his being in any danger, reſolved that he ſhould about eight that night, have a Glyſter, the which he tooke accor<g ref="char:EOLhyphen"/>dingly, and that he ſhould have a veine open'd the next morning his Gliſter not working well with him and his Feaver continuing and he having had no reſt that night, ſent to deſire to ſpeake with ſome
+<pb n="8" facs="tcp:110921:5"/>of us, aſſoone as we could be ready, comming to him, he acquainted us therewith, and that he had a ſwelling riſen upon his thigh, ſome<g ref="char:EOLhyphen"/>what below his groyne, the painfulneſſe whereof was ſuch, that it did not onely hinder his ſleepe, but his lying at any eaſe; At the hearing whereof, having been informed, that the ſickneſſe was in the Towne, and that the Inhabitants were not onely fearfull there<g ref="char:EOLhyphen"/>of, but very inhumane to any that were viſited therewith, remo<g ref="char:EOLhyphen"/>ving of them out of the Towne, what ever their condition was, to a place without the Walls where there were Cabbins provided for them; ſome of us by his deſire, tooke the freedome to lay hands upon the place, he complained of, both for our owne ſatisfaction, and to be enabled to give the Phyſitian a cleere account thereof, he enforming us, that he conceived it aroſe from the weight of his Watch lying thereon, and that he had formerly been once or twice troubled in the like ſort; We apprehending the great danger it might have been to him, to have a veine opened, in caſe God had viſited him with the ſickneſſe, did thereupon with his approbation, reſolve to acquaint the Phyſician with that ſwelling, who there with his Apothecary, and Chirurgian view it, and reſolved from the forme thereof, and the place it was in, that it could be no Plague; and ſo proceeded to the opening of his veine, and tooke from him ſome eight ounces of blood, which was ſo extreamly corrupted, that it turned to a yellowiſh kind of water before it could be brought from the bed where he lay to his Chamber window after his veine was bound up againe, he told us, that he found his head well, and his heart whole, and that the Chirurgian having laid a Plaiſter upon his ſwelling he found the paine thereof alſo to abate, but yet his reaver continued without allowing him to take any reſt, and he began to draw his breath ſtiorter, whereat we were ſo troubled, that wee againe ſent for the Doctor to him, who came to us about two in the afternoone, but upon ſome diſcourſe that had paſſed between him and the Chirurgion hee was ſo fully reſolved that his ſickneſſe was the Plague, that wee could not perſwade his going up to him; You cannot but eaſily gheſſe how we were there<g ref="char:EOLhyphen"/>with aſtoniſhed, knowing that after his blood-letting, if it were the Plague, that there was no hope of his life, and whilſt we were in diſcourſe with him and the Chirurgion of what had been done,
+<pb n="9" facs="tcp:110921:5"/>and what was now to be done for him; It pleaſed God to call for him to a better place, and the end of his miſerie, gave a beginning not onely to our forrowes for him, but to an unheard of cruelty ex<g ref="char:EOLhyphen"/>erciſed upon us in the houſe (being the three ſilver Lyons) where we were, where the people of the houſe falling into a preſent out-cry, clap to their gates, and reſolved to keepe us Priſoners in the houſe, till wee ſhould give them ſatisfaction for the dammage they ſuggeſted, they ſhould receive by his death there, and with impudency demanded from us two hundred and fifty pounds, al<g ref="char:EOLhyphen"/>leaging that it was fit his Eſtate ſhould yeild them a further recom<g ref="char:EOLhyphen"/>pence, it was there neither time, nor place, to offer or expect reaſon, and wee were thereupon neceſſitated, to ply our ſelves by the mediation of an Engliſh Gentleman living in the Towne, to the Magiſtracy there, aſwell Civill as Martiall, and through his in<g ref="char:EOLhyphen"/>tercourſe with them, concluded to give the Maſter of the houſe to<g ref="char:EOLhyphen"/>wards his ſatisfaction for the dammage he might receive, foure<g ref="char:EOLhyphen"/>ſcore pounds ſterling, ten pounds to the Doctor, twelve pounds to the Chirurgion, and two pounds ten ſhillings to the Apothecary, being in totall one hundred foure pounds ten ſhillings, Towards the which we received from his ſervant <hi>Thomas Gage,</hi> of his Mo<g ref="char:EOLhyphen"/>ney, the ſumme of ſeventy three pounds ten ſhillings, leaving the reſt of his Money with him for his tranſport, and his Maſters goods for <hi>England,</hi> and for his Maſters Interment, the which he being a Proteſtant and dying as they ſuppoſed of the Sickneſſe, was to be in their ordinary and rough way.</p>
+            <p>This thus concluded, diſcharging all their other demands, wee had the gates of the houſe opened unto us, and were permitted to goe aboard a Barke wee hired there, at an extraordinary rate for <hi>Fluſhing;</hi> being from their cruelty, enforced to be the Porters of our owne baggage to the water ſide, and lying there at Anchor that night, under the extremities incident to ſo poore a convey<g ref="char:EOLhyphen"/>ance, when wee were weighing Anchor about eleven of the clock, with the morning Tyde, the Towne Searchers boarded us, and ſearched our Perſons, our Servants, our Males, and every thing therein<g ref="char:punc">▪</g> in the expectation to have found great Treaſure, report having come to <hi>Callice</hi> before our arrivall, that wee had brought
+<pb n="10" facs="tcp:110921:6"/>away with us, one hundred thouſand pounds in Gold, which had rai<g ref="char:EOLhyphen"/>ſed their hopes to have had a great Booty of us, and made them the willinger to believe, that report of the Plague; The Searchers be<g ref="char:EOLhyphen"/>ing no way curious in handling either of us, or any thing that did belong to us, in purſuit of their prey, but <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ding that we had been ſtript at our Inne, to a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>can<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling onely, fit for our journey, they f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld us, and we them and that their ſo cruell a place; And being not able to reach <hi>Fluſhing</hi> that night paſſing in our way the next morning over againſt <hi>Bla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckborough</hi> under the care as we thought of a l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>owing Flemiſh Pilote we ſtruck on the ſands neere twenty times, when in all likelihood wee muſt have periſhed, had not God continued his mercy to us in the mildnes of the weather ſo as to give us leave to tack about, and to recover more ware<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, after which we got to <hi>Fluſhing</hi> upon Saturday, where wee continued the Sabbath day, and went thence on Munday to <hi>Trov<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>,</hi> and thence on Tueſ<g ref="char:EOLhyphen"/>day morning, ſo as we got hither on Wedneſday at noone, being the firſt place that allowed us opportunity of ſending unto you this ſad ſtory, as it relates to our deceaſed Friend; We cannot be inſen<g ref="char:EOLhyphen"/>ſible of the loſſe, his Lady, his Children, his Friend, the Kingdome itſelfe, hath had in ſo gallant a Gentleman, we need make you no profeſſion (we are confident,) that we were not wanting to him in the duties of friendſhip, not ſhall not be (if ever we may expreſſe i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (to any that have relation to him, wee know your reſpect ſuch towards him and his; That you will take ſome friend with you, to Communicate this ſad piece to his Lady, who hath our prayers that God may aſſiſt her to undergoe this great affliction, and that he may be a Father to his Fatherleſſe Children, we deſire to heare from you of the receipt hereof; Wiſhing your happineſſe, and that we might heare that the Diſtempers in <hi>England</hi> were all well compo<g ref="char:EOLhyphen"/>ſed by a happy Peace, we remaine,</p>
+            <closer>
+               <dateline>
+                  <hi>Rotterdam,</hi> 
+                  <date>27 <hi>Auguſt,</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <head>A farther relation concerning ſome other paſſages of his ſick<g ref="char:EOLhyphen"/>neſſe, Death and Buriall.</head>
+            <p>HE landed at <hi>Callice</hi> on Tueſday <hi>Aug</hi> 17 about 6 aclock at night, and preſently took his bed, being very ſick, and continued till
+<pb n="11" facs="tcp:110921:6"/>Thurſday about two aclock in the afternoon; the Gentlemen came to him at times til 11. that morning; In this time his man <hi>Thomas Gage</hi> did oft raiſe him up in his bed, when he was in much paine, and held him up with Pillowes behind. On Wedneſday he ſate up three houres together in the after-noone, about two houres before his departure, he willed his man to let him lie along in his Bed, then being ſo laid, he lift up his hand and eyes to heaven; His man per<g ref="char:EOLhyphen"/>ceiving that, he asked him if he were in paine; he anſwered, in no paine at all; He asked him againe, whether he thought he ſhould die, and he anſwered, yes, and willed his man to commend him to his Wife, and not to forget his Children; After this hee betooke himſelfe to prayer for an houre and a halfe, praying for his ene<g ref="char:EOLhyphen"/>mies, and deſiring God to receive his ſoule, and then quietly depar<g ref="char:EOLhyphen"/>ted without groane or gaſpe. About ten aclock at night there came one and wraped him in a ſheet, and put him in a Coffin, and with another ſheet over the Coffin; He was carried to the place where the Proteſtants of that City uſe to bury their dead, and there was buried. The Inhabitants of the place ſay, that there was once a Church there, but burnt downe by the Spaniards; It being a waſte place, the Proteſtants purchaſed it for their burying place. It is compaſſed about with a broad Ditch or Moate, onely at the en<g ref="char:EOLhyphen"/>trance there are two ſides of Brick, and a large Gate betwixt them, which is kept ſhut, at buriall times.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
